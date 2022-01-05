@@ -1,0 +1,13 @@
+Requisitos sistema empresa Savinis.
+
+1º Verificar se a peça possui mais de 100g
+	Se sim: Cadastrar normalmente - OK
+	Se não: Não cadastrar a peça - OK
+
+2º Verificar número de peças cadastradas, não pode ter mais de 10 peças
+	Menos de 10: Cadastrar normalmente
+	10 ou mais peças: Não cadastrar a peça
+
+3º Verificar a quantidade de caracteres no nome da peça
+	3 caracteres ou menos: Não podemos cadastrar
+	4 ou mais caracteres: Cadastrar a peça
