@@ -1,5 +1,5 @@
 // linguagem X
-let nomeDoEstudante: String = "Helena";
+var nomeDoEstudante = "Helena";
 // let é a declaração da variável
 // nomeDoEstudante é o nome atribuído
 // String é o tipo de dado, pois é formado de caracteres
